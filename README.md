@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hi, I'm Aditya 👋<br><br>I'm on a journey to become a DevOps & Cloud Engineer, driven by a passion<br>for automation, scalable systems, and continuous delivery. I'm building<br>hands-on experience with AWS, Linux, and CI/CD pipelines while learning<br>what it takes to ship software reliably and securely.<br><br>To me, DevOps isn't just tools — it's culture, collaboration, and<br>continuous improvement. Currently exploring:<br>🔹 Cloud infrastructure (AWS)<br>🔹 Infrastructure as Code (IaC)<br>🔹 CI/CD pipelines & automation<br>🔹 Linux & Networking fundamentals<br><br>📫 Reach me: adityarai334110019@gmail.com<br>🔗 LinkedIn: linkedin.com/in/aditya-rai30--aws<br>🔗 Instagram: adityarai3344
 
 
